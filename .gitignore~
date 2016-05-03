@@ -1,0 +1,6 @@
+# will ignore downloadJquery 
+downloadJquery/
+
+#will ignore all .php files
+docs/*.php
+
